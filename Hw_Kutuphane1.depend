@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1512590838 source:c:\users\emre\desktop\hw_kutuphane1\main.cpp
+	<iostream>
+	"class_yazar.h"
+	"class_kitap.h"
+	<string>
+	<stdio.h>
+	<cstdlib>
+
+1512590524 c:\users\emre\desktop\hw_kutuphane1\include\class_yazar.h
+	<iostream>
+
+1512590524 c:\users\emre\desktop\hw_kutuphane1\include\class_kitap.h
+	<iostream>
+
+1512590524 source:c:\users\emre\desktop\hw_kutuphane1\src\class_kitap.cpp
+	"class_kitap.h"
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+
+1512590524 source:c:\users\emre\desktop\hw_kutuphane1\src\class_yazar.cpp
+	"class_yazar.h"
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+
