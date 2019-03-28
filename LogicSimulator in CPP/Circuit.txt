@@ -1,0 +1,9 @@
+8 6
+1 1 1 1 1 1 1 1 0
+Adder1 I-1 I-2 I-3 I-4 I-5 I-6 I-7 I-8 0
+Adder2 Adder1-1 Adder1-2 Adder1-3 Adder1-4 0 OR2-1 OR2-1 0
+AND1 Adder1-3 Adder1-4
+AND2 Adder1-4 Adder1-2
+OR1 AND1-1 AND2-1
+OR2 OR1-1 Adder1-5
+Output Adder2-5 Adder2-4 Adder2-3 Adder2-2 Adder2-1

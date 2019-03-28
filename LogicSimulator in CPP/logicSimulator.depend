@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1513268137 source:c:\users\osman deniz\cprojects\logicsimulator\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"logicClass.h"
+	"adderClass.h"
+	"andclass.h"
+	"orclass.h"
+
+1513272605 c:\users\osman deniz\cprojects\logicsimulator\include\logicclass.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+
+1513273953 c:\users\osman deniz\cprojects\logicsimulator\include\adderclass.h
+	"logicClass.h"
+
+1513273811 c:\users\osman deniz\cprojects\logicsimulator\include\andclass.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513273350 c:\users\osman deniz\cprojects\logicsimulator\include\orclass.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513272515 source:c:\users\osman deniz\cprojects\logicsimulator\src\adderclass.cpp
+	"adderClass.h"
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1513273859 source:c:\users\osman deniz\cprojects\logicsimulator\src\andclass.cpp
+	"andclass.h"
+	<iostream>
+	<string>
+
+1513268170 source:c:\users\osman deniz\cprojects\logicsimulator\src\logicclass.cpp
+	"logicClass.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1513273723 source:c:\users\osman deniz\cprojects\logicsimulator\src\orclass.cpp
+	"orclass.h"
+	<fstream>
+
+1513268137 source:c:\users\emre\desktop\logicsimulator\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"logicClass.h"
+	"adderClass.h"
+	"andclass.h"
+	"orclass.h"
+
+1513272605 c:\users\emre\desktop\logicsimulator\include\logicclass.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+
+1513273953 c:\users\emre\desktop\logicsimulator\include\adderclass.h
+	"logicClass.h"
+
+1513273811 c:\users\emre\desktop\logicsimulator\include\andclass.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513273350 c:\users\emre\desktop\logicsimulator\include\orclass.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513274107 source:c:\users\emre\desktop\logicsimulator\src\adderclass.cpp
+	"adderClass.h"
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1513273859 source:c:\users\emre\desktop\logicsimulator\src\andclass.cpp
+	"andclass.h"
+	<iostream>
+	<string>
+
+1513268170 source:c:\users\emre\desktop\logicsimulator\src\logicclass.cpp
+	"logicClass.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1513273723 source:c:\users\emre\desktop\logicsimulator\src\orclass.cpp
+	"orclass.h"
+	<fstream>
+
