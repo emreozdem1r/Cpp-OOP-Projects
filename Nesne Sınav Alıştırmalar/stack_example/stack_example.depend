@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514397209 source:c:\users\emre\desktop\stack_example\main.cpp
+	<iostream>
+	"lifo.h"
+	<string>
+
+1514395480 source:c:\users\emre\desktop\stack_example\src\lifo.cpp
+
+1514397196 c:\users\emre\desktop\stack_example\include\lifo.h
+

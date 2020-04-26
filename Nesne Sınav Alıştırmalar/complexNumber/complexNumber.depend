@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1513232586 source:c:\users\osman deniz\cprojects\complexnumber\main.cpp
+	<iostream>
+	"complexClass.h"
+	"complexArray.h"
+
+1513234604 source:c:\users\osman deniz\cprojects\complexnumber\src\complexclass.cpp
+	"complexClass.h"
+	<cstdlib>
+	<math.h>
+
+1513234400 c:\users\osman deniz\cprojects\complexnumber\include\complexclass.h
+	<iostream>
+
+1512628984 c:\users\osman deniz\cprojects\complexnumber\include\complexarray.h
+	"complexClass.h"
+
+1513231939 source:c:\users\osman deniz\cprojects\complexnumber\src\complexarray.cpp
+	"complexArray.h"
+
+1513785560 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexnumber\main.cpp
+	<iostream>
+	"complexClass.h"
+	"complexArray.h"
+
+1514920061 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexnumber\include\complexclass.h
+	<iostream>
+
+1512632586 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexnumber\include\complexarray.h
+	"complexClass.h"
+
+1514920059 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexnumber\src\complexarray.cpp
+	"complexArray.h"
+
+1514916568 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexnumber\src\complexclass.cpp
+	"complexClass.h"
+	<cstdlib>
+	<math.h>
+

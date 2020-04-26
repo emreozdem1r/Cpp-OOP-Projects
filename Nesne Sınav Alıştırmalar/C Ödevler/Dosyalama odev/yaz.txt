@@ -1,0 +1,9 @@
+Okunacak dosyanin adresi
+Yazilacak dosyanin adresi
+Satir satir okuma islemi yapma ve bunu bir diziye atama
+Satir satir okuma isleminin sonuna gelene kadar
+Diziden verileri okuma
+ Satir satir okuma isleminde aciklama satiri olan yeri bulma
+ 2 tane oldugu durumda buranin aciklama satiri oldugunu gosterme
+ Aciklama satirini gordukten sonra aciklama satirini yazdirma
+ Bu aciklama satirlarini bir metin belgesine yazdirma

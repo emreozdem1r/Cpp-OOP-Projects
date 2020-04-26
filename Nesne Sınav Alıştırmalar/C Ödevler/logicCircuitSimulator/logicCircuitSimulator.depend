@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1513277724 source:c:\users\emre\desktop\logiccircuitsimulator\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"logicClass.h"
+	"sAdder.h"
+	"andGate.h"
+	"orGate.h"
+
+1513190506 c:\users\emre\desktop\logiccircuitsimulator\include\logicclass.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+
+1513277386 c:\users\emre\desktop\logiccircuitsimulator\include\sadder.h
+	"logicClass.h"
+
+1513277622 c:\users\emre\desktop\logiccircuitsimulator\include\andgate.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513277724 c:\users\emre\desktop\logiccircuitsimulator\include\orgate.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513289074 source:c:\users\emre\desktop\logiccircuitsimulator\src\andgate.cpp
+	"andGate.h"
+	<iostream>
+	<string>
+
+1513324813 source:c:\users\emre\desktop\logiccircuitsimulator\src\logicclass.cpp
+	"logicClass.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+
+1513288993 source:c:\users\emre\desktop\logiccircuitsimulator\src\orgate.cpp
+	"orGate.h"
+
+1513289491 source:c:\users\emre\desktop\logiccircuitsimulator\src\sadder.cpp
+	"sAdder.h"
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1513277724 source:c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"logicClass.h"
+	"sAdder.h"
+	"andGate.h"
+	"orGate.h"
+
+1513190506 c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\include\logicclass.h
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+
+1513277386 c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\include\sadder.h
+	"logicClass.h"
+
+1513277622 c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\include\andgate.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513277724 c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\include\orgate.h
+	<iostream>
+	<string>
+	"logicClass.h"
+
+1513289074 source:c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\src\andgate.cpp
+	"andGate.h"
+	<iostream>
+	<string>
+
+1513288993 source:c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\src\orgate.cpp
+	"orGate.h"
+
+1513289491 source:c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\src\sadder.cpp
+	"sAdder.h"
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<sstream>
+	<math.h>
+
+1513888527 source:c:\users\emre\desktop\c Ödevler\logiccircuitsimulator\src\logicclass.cpp
+	"logicClass.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	<cstdlib>
+

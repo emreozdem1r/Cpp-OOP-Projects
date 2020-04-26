@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\main.cpp
+	<iostream>
+
+1514906318 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\src\lroom.cpp
+	"lroom.h"
+	<iostream>
+	<string>
+
+1514904319 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\include\lroom.h
+	<room.h>
+
+1514967204 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\include\room.h
+
+1514900938 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\src\room.cpp
+	"room.h"
+
+1514905623 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\src\kitchen.cpp
+	"kitchen.h"
+
+1514905651 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\13_14_but\include\kitchen.h
+	<room.h>
+

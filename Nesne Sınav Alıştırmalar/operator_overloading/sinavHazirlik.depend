@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513772533 source:c:\users\emre\desktop\sinavhazirlik\main.cpp
+	<iostream>
+	"complexClass.h"
+
+1513777884 c:\users\emre\desktop\sinavhazirlik\include\complexclass.h
+	<iostream>
+
+1513777884 source:c:\users\emre\desktop\sinavhazirlik\src\complexclass.cpp
+	"complexClass.h"
+

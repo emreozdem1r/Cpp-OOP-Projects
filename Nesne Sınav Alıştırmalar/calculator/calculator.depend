@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514532625 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\calculator\src\calculator.cpp
+
+1514539177 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\calculator\main.cpp
+	<iostream>
+	"calculator.h"
+	<string>
+
+1514539639 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\calculator\include\calculator.h
+	<iostream>
+	<string>
+

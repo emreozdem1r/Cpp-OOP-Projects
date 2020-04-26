@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1513934193 source:c:\users\emre\desktop\poly_example\main.cpp
+	<iostream>
+	"animal.h"
+	"dog.h"
+	"cat.h"
+	"cow.h"
+	<string>
+
+1513934212 c:\users\emre\desktop\poly_example\include\animal.h
+	<string>
+
+1513932597 c:\users\emre\desktop\poly_example\include\dog.h
+	<string>
+	"animal.h"
+
+1513932597 c:\users\emre\desktop\poly_example\include\cat.h
+	"animal.h"
+	<string>
+
+1513932719 c:\users\emre\desktop\poly_example\include\cow.h
+	"animal.h"
+	<string>
+
+1513933543 source:c:\users\emre\desktop\poly_example\src\animal.cpp
+	"animal.h"
+
+1513933609 source:c:\users\emre\desktop\poly_example\src\cat.cpp
+	"cat.h"
+
+1513933474 source:c:\users\emre\desktop\poly_example\src\cow.cpp
+	"cow.h"
+
+1513933655 source:c:\users\emre\desktop\poly_example\src\dog.cpp
+	"dog.h"
+
+1513933543 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\src\animal.cpp
+	"animal.h"
+
+1513935067 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\include\animal.h
+	<string>
+
+1513933609 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\src\cat.cpp
+	"cat.h"
+
+1513932597 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\include\cat.h
+	"animal.h"
+	<string>
+
+1513933474 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\src\cow.cpp
+	"cow.h"
+
+1513932719 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\include\cow.h
+	"animal.h"
+	<string>
+
+1513933655 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\src\dog.cpp
+	"dog.h"
+
+1513932597 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\include\dog.h
+	<string>
+	"animal.h"
+
+1514397977 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\poly_example\main.cpp
+	<iostream>
+	"animal.h"
+	"dog.h"
+	"cat.h"
+	"cow.h"
+	<string>
+

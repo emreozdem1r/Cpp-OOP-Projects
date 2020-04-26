@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\main.cpp
+	<iostream>
+
+1514625454 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\src\cabinet.cpp
+	"cabinet.h"
+
+1514626752 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\include\cabinet.h
+	<iostream>
+	<string>
+
+1514627907 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\src\kitchenc.cpp
+	"kitchenC.h"
+
+1514628958 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\include\kitchenc.h
+	<iostream>
+	<string>
+	"cabinet.h"
+
+1514627935 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\src\bookcase.cpp
+	"bookCase.h"
+
+1514628298 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\include\bookcase.h
+	"cabinet.h"
+
+1514628022 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\src\gardrobe.cpp
+	"gardrobe.h"
+
+1514628953 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\final_question\include\gardrobe.h
+	<cabinet.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513842199 source:c:\users\emre\desktop\dersalistirmalar\main.cpp
+	<iostream>
+	"fifo.h"
+
+1513841818 source:c:\users\emre\desktop\dersalistirmalar\src\fifo.cpp
+
+1513842148 c:\users\emre\desktop\dersalistirmalar\include\fifo.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\main.cpp
+	<iostream>
+
+1514636700 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\src\room.cpp
+	"room.h"
+
+1514637386 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\include\room.h
+	"string"
+	<iostream>
+
+1514637605 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\src\lroom.cpp
+	"Lroom.h"
+
+1514637101 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\include\lroom.h
+	<room.h>
+
+1514630359 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\src\kitchen.cpp
+	"kitchen.h"
+
+1514630670 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\include\kitchen.h
+	<room.h>
+
+1514630520 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\src\wroom.cpp
+	"wroom.h"
+
+1514630670 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\butunleme\include\wroom.h
+	<room.h>
+

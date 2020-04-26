@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1309449281 source:d:\video kursy en\c++\45. inheritance between classes\points\main.cpp
+	<iostream>
+	"point.h"
+
+1309861078 
+
+1309449372 d:\video kursy en\c++\45. inheritance between classes\points\point.h
+
+1309449415 source:d:\video kursy en\c++\45. inheritance between classes\points\point.cpp
+	<iostream>
+	"point.h"
+
+1309449415 source:d:\video kursy en\c++\48. function templates\points\point.cpp
+	<iostream>
+	"point.h"
+
+1309861001 d:\video kursy en\c++\48. function templates\points\point.h
+
+1309861078 source:d:\video kursy en\c++\48. function templates\points\main.cpp
+	<iostream>
+	"point.h"
+
+1474459073 source:/home/sedat/KTU_OOP/OOP_examples/Function Templates/point.cpp
+	<iostream>
+	"point.h"
+
+1474459073 /home/sedat/KTU_OOP/OOP_examples/Function Templates/point.h
+
+1481284714 source:/home/sedat/KTU_OOP/OOP_examples/Function Templates/main.cpp
+	<iostream>
+	"point.h"
+
+1481719822 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/Function Templates/main.cpp
+	<iostream>
+	"point.h"
+
+1481284860 /home/sedat/KTU_OOP/ktu_oop_homeworks/Function Templates/point.h
+
+1481284884 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/Function Templates/point.cpp
+	<iostream>
+	"point.h"
+

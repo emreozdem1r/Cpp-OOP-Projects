@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514907705 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexclass\main.cpp
+	<iostream>
+	<string>
+	"complexClass.h"
+	"complexArray.h"
+
+1514548465 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexclass\src\complexarray.cpp
+	"complexArray.h"
+
+1514548465 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexclass\include\complexarray.h
+
+1514907810 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexclass\include\complexclass.h
+	<iostream>
+	<string>
+
+1514562263 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\complexclass\src\complexclass.cpp
+	"complexClass.h"
+

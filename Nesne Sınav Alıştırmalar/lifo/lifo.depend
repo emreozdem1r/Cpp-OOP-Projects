@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1483041843 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/lifo/main.cpp
+	<iostream>
+	"lifo.h"
+
+1483039790 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/lifo/src/lifo.cpp
+	"lifo.h"
+
+1483041878 /home/sedat/KTU_OOP/ktu_oop_homeworks/lifo/include/lifo.h
+
+1513359191 source:/home/sedat/oop_workspace/ktu_oop_homeworks/2016_Exam/lifo/main.cpp
+	<iostream>
+	"lifo.h"
+	"complexNumber.h"
+
+1513357439 /home/sedat/oop_workspace/ktu_oop_homeworks/2016_Exam/lifo/include/lifo.h
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/2016_Exam/lifo/src/lifo.cpp
+	"lifo.h"
+
+1513358936 /home/sedat/oop_workspace/ktu_oop_homeworks/2016_Exam/lifo/include/complexNumber.h
+	<iostream>
+	<string>
+
+1513359237 source:/home/sedat/oop_workspace/ktu_oop_homeworks/2016_Exam/lifo/src/complexNumber.cpp
+	"complexNumber.h"
+	<stdlib.h>
+
+1514023186 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\lifo\src\lifo.cpp
+	"lifo.h"
+
+1514397596 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\lifo\include\lifo.h
+
+1514399253 source:c:\users\emre\desktop\nesne sýnav alýþtýrmalar\lifo\main.cpp
+	<iostream>
+	"lifo.h"
+	"complexNumber.h"
+
+1514023186 c:\users\emre\desktop\nesne sýnav alýþtýrmalar\lifo\include\complexnumber.h
+	<iostream>
+	<string>
+
